@@ -2,7 +2,7 @@
   {
     "item": "home",
     "schoolname": "Florida Gulf Coast University",
-    "abbreviationExternal": "FGCU",
+    "abbreviation": "FGCU",
     "genericProgramName": "The Global Career Accelerator",
     "secondaryBrandColor": "#02794C",
     "primaryBrandColor": "#004785",
@@ -23,7 +23,7 @@
     "schoolname": "Florida Gulf Coast University",
     "genericProgramName": "The Global Career Accelerator",
     "schoolFullAddress": "Office of Internships & Cooperative Programs\r\n10501 FGCU Blvd. S.\r\nFort Myers, FL 33965",
-    "abbreviationExternal": "FGCU",
+    "abbreviation": "FGCU",
     "phone": "(239) 266-2546",
     "credits": "Up to 6 FGCU credits",
     "programFee": "+ 1,800",
@@ -35,7 +35,7 @@
   {
     "item": "explore-tracks",
     "credits": "Up to 6 FGCU credits",
-    "abbreviationExternal": "FGCU",
+    "abbreviation": "FGCU",
     "registrationMessage": "Registration is now open."
   },
   {
@@ -43,7 +43,7 @@
     "schoolname": "Florida Gulf Coast University",
     "trackTitle": "Digital Marketing Track",
     "credits": "Up to 6 FGCU credits",
-    "abbreviationExternal": "FGCU",
+    "abbreviation": "FGCU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COE3948",
     "courseCode2": "COE3948",
@@ -63,7 +63,7 @@
     "schoolname": "Florida Gulf Coast University",
     "trackTitle": "Web Development for Everyone Track",
     "credits": "Up to 6 FGCU credits",
-    "abbreviationExternal": "FGCU",
+    "abbreviation": "FGCU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COE3948",
     "courseCode2": "COE3948",
@@ -83,7 +83,7 @@
     "schoolname": "Florida Gulf Coast University",
     "trackTitle": "Data Analytics Track",
     "credits": "Up to 6 FGCU credits",
-    "abbreviationExternal": "FGCU",
+    "abbreviation": "FGCU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COE3948",
     "courseCode2": "COE3948",
@@ -103,7 +103,7 @@
     "schoolname": "Florida Gulf Coast University",
     "trackTitle": "Coding for Data Track",
     "credits": "Up to 6 FGCU credits",
-    "abbreviationExternal": "FGCU",
+    "abbreviation": "FGCU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COE3948",
     "courseCode2": "COE3948",
@@ -119,11 +119,11 @@
     "term2EndDate": "December 4"
   },
   {
-    "item": "career-rotation",
+    "item": "career-discovery",
     "schoolname": "Florida Gulf Coast University",
     "trackTitle": "Career Rotation Track",
     "credits": "Up to 6 FGCU credits",
-    "abbreviationExternal": "FGCU",
+    "abbreviation": "FGCU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "COE3948",
     "courseCode2": "COE3948",
@@ -143,12 +143,12 @@
     "programName": "FGCU Global Career Accelerator",
     "registrationMessage": "Registration is now open.",
     "phone": "(239) 266-2546",
-    "abbreviationExternal": "FGCU"
+    "abbreviation": "FGCU"
   },
   {
     "item": "begin",
     "credits": "Up to 6 FGCU credits",
-    "abbreviationExternal": "FGCU",
+    "abbreviation": "FGCU",
     "phone": "(239) 266-2546"
   }
 ]
